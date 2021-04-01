@@ -1,0 +1,17 @@
+{
+  "name": "rapgenius",
+  "version": "1.0.0",
+  "description": "Trying to connect to rapgenius api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tife Obideyi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node": "^15.12.0",
+    "node-fetch": "^2.6.1"
+  }
+}
